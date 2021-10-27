@@ -18,7 +18,7 @@ public class indeetials
            int  NomineeMobileNumber=SC.nextInt();
            System.out.print("  NomineeAge: ");
            int  NomineeAge=SC.nextInt();
-           System.out.print("  Email: ");
+           System.out.print("  Email id : ");
            String Email=SC.nextLine();
            System.out.print("  Occuption: ");
            String  Occuption=SC.nextLine();
